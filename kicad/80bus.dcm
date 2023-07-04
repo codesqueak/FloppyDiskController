@@ -1,0 +1,73 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24_PIN_DIP
+D 24 PIN DIP
+K 24 PIN DIP
+$ENDCMP
+#
+$CMP 24_PIN_DIP_copy
+D 24 PIN DIP
+K 24 PIN DIP
+$ENDCMP
+#
+$CMP 2764
+D EPROM 64 KiBit, [Obsolete 2000-11]
+K EPROM 64KiBit
+F https://downloads.reactivemicro.com/Electronics/ROM/2764%20EPROM.pdf
+$ENDCMP
+#
+$CMP 27C64_With_NC
+D OTP EPROM 64 KiBit, [Obsolete 2004-01]
+K OTP EPROM 64KiBit
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+$CMP 74AHC04
+D Hex Inverter
+K AHCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74AHCT04
+D Hex Inverter
+K AHCTMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74HC04
+D Hex Inverter
+K HCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74HCT04
+D Hex Inverter
+K HCTMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74S04
+D Hex Inverter
+K TTL not inv
+F http://www.ti.com/lit/gpn/sn74LS04
+$ENDCMP
+#
+$CMP Conn_01x80NasBus
+D Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP DecodeHeader
+D 24 Pin DIP
+K 24 Pin DIP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+$CMP MK36000_8K_ROM
+D 24 Pin DIP
+K 24 Pin DIP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/11107M.pdf
+$ENDCMP
+#
+#End Doc Library
