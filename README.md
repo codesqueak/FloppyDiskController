@@ -17,3 +17,5 @@ The card is a completely new implementation of the design with a number of impro
 For full documentation, see the [pdf here](FDC.pdf).  
 
  ![PCB From JLCPCB](pcb.png)
+
+  ![Built PCB](built_pcb.png)
