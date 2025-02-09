@@ -1,4 +1,4 @@
-# Floppy Disk Controller Version 1.3.0
+# Floppy Disk Controller Version 2.1.0
 
 Nascom / Gemini / 80-Bus 1793 Floppy Disk Controller
 
