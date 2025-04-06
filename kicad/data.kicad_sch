@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "80 Bus FDC Controller")
-		(date "2025-03-30")
+		(date "2025-04-06")
 		(rev "2.2.0")
 		(comment 1 "Update to Kicad 9")
 	)

@@ -9,7 +9,7 @@
 	(paper "A3")
 	(title_block
 		(title "Nascom FDC ")
-		(date "2025-03-30")
+		(date "2025-04-06")
 		(rev "2.2.0")
 		(comment 1 "Update to KiCad 9")
 	)
@@ -35000,6 +35000,18 @@
 				(size 1 1)
 				(thickness 0.25)
 			)
+		)
+	)
+	(gr_text "CS-001"
+		(at 102.377824 229.7053 0)
+		(layer "B.SilkS")
+		(uuid "16de660f-c6f1-46b4-bafe-90fe220e32da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "3450fd75-a37b-4dd7-9636-6f1b02a52b20"
