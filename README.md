@@ -1,4 +1,4 @@
-# Floppy Disk Controller Version 2.3.0
+# Floppy Disk Controller Version 2.2.1
 
 Nascom / Gemini / 80-Bus 1793 Floppy Disk Controller
 
@@ -14,7 +14,7 @@ The card is a completely new implementation of the design with a number of impro
 *	Copious test points
 * Full documentation
 
-For full documentation, see the [pdf here](FDC.pdf).  
+For full documentation, see the [pdf here](FDC.pdf).
 
  ![PCB From JLCPCB](pcb.png)
 
